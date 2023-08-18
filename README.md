@@ -10,3 +10,5 @@ We will first provide an overview of our dataset, with the description and pre-p
 we will proceed with exploratory data analysis and the building of the models to predict the genre class
 with different approaches. Finally we will evaluate the performance of our models and make a comparison
 between them. We will use evaluation metrics such as accuracy, precision, recall and F1 score.
+
+The files reported here include the R-markdown and the pdf of the final report.
