@@ -11,4 +11,8 @@ we will proceed with exploratory data analysis and the building of the models to
 with different approaches. Finally we will evaluate the performance of our models and make a comparison
 between them. We will use evaluation metrics such as accuracy, precision, recall and F1 score.
 
-The files reported here include the R-markdown and the pdf of the final report.
+The files reported here include:
+- the R-markdown
+- the pdf of the final report.
+
+The following project was done together with [@filippo2206](https://github.com/filippo2206)
