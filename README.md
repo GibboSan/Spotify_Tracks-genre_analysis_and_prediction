@@ -12,7 +12,11 @@ with different approaches. Finally we will evaluate the performance of our model
 between them. We will use evaluation metrics such as accuracy, precision, recall and F1 score.
 
 The files reported here include:
-- the R-markdown
+- the R workspace: where we wrote our codes, do the first analysis and experiments;
+- the R-markdown report;
 - the pdf of the final report.
+
+I highly suggest to look to the final report or to the R-markdown to see the work.
+In the R workspace there are more researches and experiments but it is hard-to-read.
 
 The following project was done together with [@filippo2206](https://github.com/filippo2206)
